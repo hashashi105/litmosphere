@@ -1,4 +1,4 @@
 hello
-from a b.sc grad
+from aust
 learning git
 trying to make a merge conflict
