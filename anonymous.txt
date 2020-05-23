@@ -2,3 +2,5 @@ hello
 from aust
 learning git
 trying to make a merge conflict
+my little brother name is farhan
+i would love to visit turky
